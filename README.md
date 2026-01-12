@@ -57,14 +57,6 @@ snake
 
 ---
 
-## 📸 Screenshots
-
-(Add your uploaded screenshots here later)
-
-Example:
-```markdown
-![Game Start](Screenshot(162).png)
-![Game Over](Screenshot(163).png)
 
 👩‍💻 Author
 Aparna Choudhury
