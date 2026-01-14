@@ -34,7 +34,7 @@ snake
 │ └── icons
 │ ├── apple.png → Apple sprite
 │ ├── dot.png → Snake body sprite
-│ └── head.png → Snake head sprite
+│ └── head.png → Snake head sprit
 
 ---
 
